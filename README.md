@@ -1,11 +1,10 @@
-# BLAZERGAMES
+# Kizix Games
 
-*Subscribe to Blazer!!!*
-https://youtube.com/c/blazerhm
+*Dont get caught* 
 
 ## Deployment
 Here are some other deployment options to deploy the site on your own.
-
+glitch is really laggy i reccomend vercel.app glfh!
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/beforeblazergithub/BlazerGames)
 <br>
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/beforeblazergithub/BlazerGames)
